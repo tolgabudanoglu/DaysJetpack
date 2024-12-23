@@ -1,3 +1,127 @@
 <resources>
     <string name="app_name">DaysJetpack</string>
+
+    <!-- Gün 1 -->
+    <string name="day_1_title">Temel Bileşenler</string>
+    <string name="day_1_description">Text, Button, Column, Row gibi temel bileşenlerin kullanımı.</string>
+
+    <!-- Gün 2 -->
+    <string name="day_2_title">Material Theme</string>
+    <string name="day_2_description">Uygulamanın renk şeması, tipografi ve şekillendirme özelliklerini özelleştirme.</string>
+
+    <!-- Gün 3 -->
+    <string name="day_3_title">LazyColumn ile Listeler</string>
+    <string name="day_3_description">Kaydırılabilir listeler oluşturma ve elemanları dinamik olarak ekleme.</string>
+
+    <!-- Gün 4 -->
+    <string name="day_4_title">LazyVerticalGrid ile Grid Görünümü</string>
+    <string name="day_4_description">Grid düzeninde veri gösterimi.</string>
+
+    <!-- Gün 5 -->
+    <string name="day_5_title">State Management</string>
+    <string name="day_5_description">remember ve mutableStateOf ile UI durumlarını yönetme.</string>
+
+    <!-- Gün 6 -->
+    <string name="day_6_title">Composable Functions</string>
+    <string name="day_6_description">Özelleştirilmiş ve yeniden kullanılabilir bileşenler oluşturma.</string>
+
+    <!-- Gün 7 -->
+    <string name="day_7_title">Modifiers ile Özelleştirme</string>
+    <string name="day_7_description">Modifier kullanarak boyut, arkaplan, hizalama ve diğer stilleri ayarlama.</string>
+
+    <!-- Gün 8 -->
+    <string name="day_8_title">Navigation Component</string>
+    <string name="day_8_description">Farklı ekranlar arasında geçiş yapma.</string>
+
+    <!-- Gün 9 -->
+    <string name="day_9_title">Animasyonlar (Basit)</string>
+    <string name="day_9_description">animateColorAsState ve animateDpAsState ile basit animasyonlar.</string>
+
+    <!-- Gün 10 -->
+    <string name="day_10_title">Karmaşık Animasyonlar</string>
+    <string name="day_10_description">Transition ve AnimatedVisibility ile karmaşık animasyonlar.</string>
+
+    <!-- Gün 11 -->
+    <string name="day_11_title">Image ve Icon Kullanımı</string>
+    <string name="day_11_description">Resim ve ikon ekleme, Painter API kullanımı.</string>
+
+    <!-- Gün 12 -->
+    <string name="day_12_title">Snackbar ve Toast</string>
+    <string name="day_12_description">Kullanıcı bildirimleri gösterme.</string>
+
+    <!-- Gün 13 -->
+    <string name="day_13_title">Formlar ve Kullanıcı Girdileri</string>
+    <string name="day_13_description">TextField, Checkbox, RadioButton kullanımı.</string>
+
+    <!-- Gün 14 -->
+    <string name="day_14_title">Dialogs</string>
+    <string name="day_14_description">Alert ve Custom Dialog oluşturma.</string>
+
+    <!-- Gün 15 -->
+    <string name="day_15_title">State Hoisting</string>
+    <string name="day_15_description">Bileşenlerin durum yönetimini optimize etme.</string>
+
+    <!-- Gün 16 -->
+    <string name="day_16_title">Jetpack Compose Shapes</string>
+    <string name="day_16_description">Shape özelliği ile farklı köşe stilleri oluşturma.</string>
+
+    <!-- Gün 17 -->
+    <string name="day_17_title">Lists with Headers</string>
+    <string name="day_17_description">Listelere başlık ekleme ve gruplama.</string>
+
+    <!-- Gün 18 -->
+    <string name="day_18_title">ConstraintLayout</string>
+    <string name="day_18_description">Karmaşık düzenler için ConstraintLayout kullanımı.</string>
+
+    <!-- Gün 19 -->
+    <string name="day_19_title">Compose Animation APIs</string>
+    <string name="day_19_description">Gelişmiş animasyon API\'leri ile etkileşimli animasyonlar oluşturma.</string>
+
+    <!-- Gün 20 -->
+    <string name="day_20_title">Canvas ile Çizimler</string>
+    <string name="day_20_description">Özelleştirilmiş çizimler yapma.</string>
+
+    <!-- Gün 21 -->
+    <string name="day_21_title">Theming ve Dark Mode</string>
+    <string name="day_21_description">Karanlık mod desteği ekleme.</string>
+
+    <!-- Gün 22 -->
+    <string name="day_22_title">Paging</string>
+    <string name="day_22_description">Büyük veri setlerini sayfalama ile yönetme.</string>
+
+    <!-- Gün 23 -->
+    <string name="day_23_title">ViewModel ile Çalışma</string>
+    <string name="day_23_description">Compose ile ViewModel ve LiveData kullanımı.</string>
+
+    <!-- Gün 24 -->
+    <string name="day_24_title">Retrofit ile Veri Çekme</string>
+    <string name="day_24_description">API\'den veri çekerek gösterme.</string>
+
+    <!-- Gün 25 -->
+    <string name="day_25_title">Room Database Entegrasyonu</string>
+    <string name="day_25_description">Verileri yerel olarak saklama.</string>
+
+    <!-- Gün 26 -->
+    <string name="day_26_title">Pull to Refresh</string>
+    <string name="day_26_description">Kullanıcıların verileri yenilemesini sağlama.</string>
+
+    <!-- Gün 27 -->
+    <string name="day_27_title">Gesture Detection</string>
+    <string name="day_27_description">Pan, zoom ve swipe gibi hareketleri algılama.</string>
+
+    <!-- Gün 28 -->
+    <string name="day_28_title">Compose Testing</string>
+    <string name="day_28_description">UI testlerini gerçekleştirme.</string>
+
+    <!-- Gün 29 -->
+    <string name="day_29_title">Performance Optimization</string>
+    <string name="day_29_description">Compose uygulamanızı optimize etme.</string>
+
+    <!-- Gün 30 -->
+    <string name="day_30_title">Uygulama Yayını</string>
+    <string name="day_30_description">Uygulamanın son halini hazırlama ve yayınlama süreci.</string>
+    <string name="expand_button">Expand Button to view description of each day</string>
+
 </resources>
+
+
