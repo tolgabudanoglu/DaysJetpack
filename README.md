@@ -6,5 +6,4 @@ It was made for a 30-day app building project in the Building beautiful apps sec
 
 |                    | Dark | Light |
 |--------------------|------|-------|
-| Hesap Makinesi | <img src="https://github.com/user-attachments/assets/f60a7237-7bca-4895-a2b9-38f6f432c79f" width="240" height="480"/> | 
-<img src="https://github.com/user-attachments/assets/1ce29583-2221-458d-bf08-a2f2192b0804" width="240" height="480"/>      |
+| Hesap Makinesi | <img src="https://github.com/user-attachments/assets/f60a7237-7bca-4895-a2b9-38f6f432c79f" width="240" height="480"/> | <img src="https://github.com/user-attachments/assets/1ce29583-2221-458d-bf08-a2f2192b0804" width="240" height="480"/>      |
